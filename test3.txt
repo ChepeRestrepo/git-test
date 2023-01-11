@@ -1,2 +1,5 @@
 Se acaba de hacer un cambio 
 en test3.txt
+
+Estamos agregando este cambio para ver si se puede usar 
+solo git push para actualizar
